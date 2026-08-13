@@ -33,7 +33,7 @@ After more than a decade of experience in IT, including healthcare software supp
 
 Research area: Medical Image Processing
 
-Master's thesis: Detection of Sickle Cell Anemia Using Mathematical Morphology and Edge Detection Techniques
+Master's thesis: **Sickle Cell Anemia Detection Using Mathematical Morphology and Edge Detection Techniques**
 
 ## Currently Learning
 
